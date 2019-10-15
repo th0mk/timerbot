@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TimerBot.Bot": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
